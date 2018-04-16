@@ -6,7 +6,7 @@ import java.util.Set;
 import java.util.Stack;
 
 /**
- *
+ * https://protice.geekforgeeks.org/prolems/count-subssequences-of-type-ai-bj-ck/o
  * count the number of subseq of a^ib^jC^k
  */
 public class App {
