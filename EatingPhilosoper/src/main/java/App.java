@@ -6,9 +6,9 @@ import java.util.concurrent.CountDownLatch;
 
 public class App {
 
-    public static void main(String[] args) throws IOException {
+    public void main(String[] args) throws IOException {
 
-        deadLockHappen(10);
+        deadLockAvoid(10);
 
     }
 
